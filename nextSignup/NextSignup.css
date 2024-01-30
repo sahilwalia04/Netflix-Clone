@@ -1,0 +1,65 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 82vh; /* Set the height to 100% of the viewport height */
+    
+  }
+  
+  .inner-container {
+   height: 500px;
+   width: 500px;
+    font-family: sans-serif;
+    margin-left: 5%;
+  }
+  .pasd{
+     width: 390px;
+     height: 55px;
+     font-size: large;
+  }
+  .forgetpassword{
+   font-size: larger;
+   text-decoration: none;
+  }
+  .next{
+    border: 1px ;
+    height: 60px; 
+    width: 400px;
+    text-align: center;
+    font-size: x-large;
+    margin-top: 4%;
+    background-color: red;
+    border-radius: 2%;
+    
+  }
+  .inner-next{
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+  }
+  .forget{
+     margin-top: 4%;
+  }
+  .logo2{
+    width: 11%;
+    margin-left: 3%;
+    
+  }
+  .navbar{
+    margin-top: 1.4%;
+    display: flex;
+    justify-content: space-between  ;   
+    padding-bottom: 1%;
+  }
+  .sign{
+   width: 100px;
+   font-size: larger; 
+   font-family: sans-serif;
+   text-decoration: none;
+   margin-top: 15px;
+  }
+  .hr4{
+    border-color: rgb(255, 255, 255);
+  } 
+
+  

@@ -1,0 +1,23 @@
+.back1 {
+    background-color: black;
+    margin-left: -10px;
+}
+
+.grid-container1 {
+    display: grid;
+    padding: 7%;
+    grid-template-columns: auto auto auto auto;
+    gap: 25px;
+    width: 1100px;
+    justify-content: space-around;
+    font-size: large
+    
+}
+
+.grid-item1-first {
+    grid-column: 1/5;
+   
+}
+.li{
+    color: aliceblue;
+}
